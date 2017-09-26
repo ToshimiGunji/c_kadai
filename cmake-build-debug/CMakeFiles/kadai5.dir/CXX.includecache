@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/b1016121/ClionProjects/kadai5/cmake-build-debug/practice.cpp
+practice.h
+C:/Users/b1016121/ClionProjects/kadai5/cmake-build-debug/practice.h
+
+C:/Users/b1016121/ClionProjects/kadai5/cmake-build-debug/practice.h
+
